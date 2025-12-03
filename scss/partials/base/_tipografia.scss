@@ -1,11 +1,33 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 /* font-family: "Inter", sans-serif */
-h1 {
+
+    h1 {
+      border: 3px solid #333;   
+      padding: 10px 20px;       
+      display: inline-block;    
+      color: #333;              
+      transition: all 0.3s ease;
+    }
+
+    h1:hover {
+      color: #c49292;              
+      background-color: #6e1e1e;   
+      border-color: #353131;      
+    }
+
+
+p {
     display: flex;
     margin: 50 px;
-    padding: 20px;
-    color: brown;
-    font-size: 60px;
+    padding: 20 px;
+    color: blue;
+    font-size: 70 px;
     font-family: "Inter", sans-serif
-    
+
+
+}
+.foto {
+     display: flex;
+    margin: 200px;
+    padding: 100 px;
 }

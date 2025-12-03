@@ -1,6 +1,5 @@
 @use '../utilitis/extens.scss';
-.boton-ins {
-    @extend %boton;
-    background-color: red;
 
+.boton-ins {
+      background-color: rgb(60, 18, 18);
 }
