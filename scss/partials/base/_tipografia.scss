@@ -11,18 +11,18 @@
 
     h1:hover {
       color: #c49292;              
-      background-color: #6e1e1e;   
+      background-color: #a44b4b;   
       border-color: #353131;      
     }
+ 
 
-
-p {
-    display: flex;
-    margin: 50 px;
-    padding: 20 px;
-    color: blue;
-    font-size: 70 px;
-    font-family: "Inter", sans-serif
+     p {
+        display: flex;
+        margin:100 px;
+        padding: 50 px;
+        color: rgb(44, 19, 237);
+        font-size: calc(1.375rem + 1.5vw);
+        font-family: "Inter", sans-serif
 
 
 }

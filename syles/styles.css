@@ -15,16 +15,16 @@ h1 {
 
 h1:hover {
   color: #c49292;
-  background-color: #6e1e1e;
+  background-color: #a44b4b;
   border-color: #353131;
 }
 
 p {
   display: flex;
-  margin: 50 px;
-  padding: 20 px;
-  color: blue;
-  font-size: 70 px;
+  margin: 100 px;
+  padding: 50 px;
+  color: rgb(44, 19, 237);
+  font-size: calc(1.375rem + 1.5vw);
   font-family: "Inter", sans-serif;
 }
 
@@ -41,7 +41,7 @@ ol {
 }
 
 .boton-ins {
-  background-color: rgb(60, 18, 18);
+  background-color: rgb(244, 6, 6);
 }
 
 /*# sourceMappingURL=styles.css.map */
